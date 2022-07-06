@@ -1,4 +1,4 @@
-# CopyFileAplication
+# CopyFileApplication
 
 In this repository I have created a program that copies data from a file to another file.<br>
 <b>"CopyFileThread"</b> class will copy the data.<br> <b>"CopyFileExecutorService"</b> class will perform the same task, but only using ExecutorService.<br>
